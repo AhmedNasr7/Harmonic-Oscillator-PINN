@@ -14,7 +14,7 @@ Where:
 - $z_0$ is the **initial displacement**.
 - $\dot{z}_0$ is the **initial velocity**.
 
-The solution is computed over the domain $\z \in [0, 20] $, and the PINN is trained to learn the solution conditioned on the damping ratio \( \zeta \).
+The solution is computed over the domain $z \in [0, 20] $, and the PINN is trained to learn the solution conditioned on the damping ratio \( \zeta \).
 
 ## Approach
 1. **Define the PDE and Initial Conditions:**  
