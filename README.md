@@ -5,7 +5,7 @@ Physics-Informed Neural Network (PINN) for solving the damped harmonic oscillato
 The goal is to solve the **damped harmonic oscillator equation** using a PINN. The governing equation of the damped harmonic oscillator is:
 
 \[
-\frac{d^2 z}{dt^2} + 2 \zeta \frac{dz}{dt} + \omega^2 z = 0
+$\frac{d^2 z}{dt^2} + 2 \zeta \frac{dz}{dt} + \omega^2 z = 0$
 \]
 
 Where:
