@@ -10,7 +10,7 @@ $\frac{d^2 z}{dt^2} + 2 \zeta \frac{dz}{dt} + \omega^2 z = 0$
 
 Where:
 - \( $z(t)$ \) is the **displacement** of the system as a function of time.
-- \( $\zeta $ \) is the **damping ratio**, conditioned within the range [0.1, 0.4].
+- $\( \zeta  \)$ is the **damping ratio**, conditioned within the range [0.1, 0.4].
 - \( $z_0$ \) is the **initial displacement**.
 - \( $\dot{z}_0$ \) is the **initial velocity**.
 
